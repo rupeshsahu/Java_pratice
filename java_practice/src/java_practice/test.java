@@ -7,6 +7,7 @@ public class test {
 		// TODO Auto-generated method stubsyso
 		
 		System.out.println("rupesh");
+		System.out.println("rupesh");
 	}
 
 }
