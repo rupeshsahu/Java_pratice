@@ -4,7 +4,7 @@ public class ReverseStringExceptSpecialChar {
 	
 	public static void main (String[]args)
 	{
-		String str="Rup@esh@sahu";
+		String str="@Rup@esh@sahu@";
 		char [] arr=str.toCharArray();
 		int l=0,r=arr.length-1;
 	
