@@ -12,6 +12,8 @@ public class hashing {
    map.put(3,"Banana");   
    map.put(4,"Grapes"); 
    map.put(5,"5"); 
+   
+   System.out.println(map);
     
        
    System.out.println("Iterating Hashmap...");  
