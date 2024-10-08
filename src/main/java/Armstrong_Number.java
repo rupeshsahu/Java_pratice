@@ -1,4 +1,4 @@
-package java_practice;
+
 import java.util.*;
 
 public class Armstrong_Number {
